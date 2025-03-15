@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="title_activity_main2">Leanback MainActivity2</string>
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+
+    <string name="app">Meu App</string>
+    <string-array name="opcoes_spinner">
+        <item>Soma</item>
+        <item>Subtração</item>
+        <item>Multiplicação</item>
+        <item>Divisão</item>
+    </string-array>
+    <string-array name="cores">
+        <item>Vermelho</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Amarelo</item>
+        <item>Laranja</item>
+        <item>Roxo</item>
+        <item>Rosa</item>
+        <item>Marrom</item>
+        <item>Preto</item>
+        <item>Branco</item>
+        <item>Cinza</item>
+        <item>Ciano</item>
+        <item>Magenta</item>
+        <item>Dourado</item>
+        <item>Prateado</item>
+    </string-array>
+
+
+</resources>
